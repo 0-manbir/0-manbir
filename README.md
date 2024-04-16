@@ -3,18 +3,7 @@
 <br>
 <h3 align="left">About me</h3>
 🎮 Currently working on an adventure game - <b>Wild Trails</b><br>
-🧠 Currently learning Data Structures and Algorithms<br>
-📫 Reach me at 0.manbirsingh@gmail.com
-
-<h3 align="left">Skills</h3>
-🎮 Game Development<br>
-📱 Android App Development<br>
-📹 Video Editing<br>
-⌨️ Touch Typing
-
-<h3 align="left">Hobbies and Interests</h3>
-📘 Reading Books<br>
-📖 Learning Things
+📬 Reach me at 0.manbirsingh@gmail.com
 
 <h3 align="left">Links:</h3>
 <p align="left">
