@@ -11,7 +11,7 @@ Reach me at 0.manbirsingh@gmail.com
   &nbsp;
 <a href="https://linkedin.com/in/0-manbir" target="blank" rel="noreferrer">LinkedIn</a>
   &nbsp;
-<a href="https://codeforces.com/profile/manbir.singh" target="blank" rel="noreferrer">CodeForces</a>
+<a href="https://leetcode.com/u/0-manbir/" target="blank" rel="noreferrer">LeetCode</a>
 </p>
 
 <h3 align="left">Software / Tools:</h3>
