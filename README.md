@@ -2,13 +2,11 @@
 <h3 align="center">A Student and an Indie Game Developer!</h3>
 <br>
 <h3 align="left">About me</h3>
-Currently working on an adventure game - <b>Wild Trails</b><br>
+I am Manbir, a hobbyist game developer.<br>
 Reach me at 0.manbirsingh@gmail.com
 
-<h3 align="left">Links:</h3>
+<h3 align="left">Profiles:</h3>
 <p align="left">
-<a href="https://instagram.com/0_manbir" target="blank" rel="noreferrer">Instagram</a>
-  &nbsp;
 <a href="https://linkedin.com/in/0-manbir" target="blank" rel="noreferrer">LinkedIn</a>
   &nbsp;
 <a href="https://leetcode.com/u/0-manbir/" target="blank" rel="noreferrer">LeetCode</a>
