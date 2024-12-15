@@ -9,6 +9,8 @@ Reach me at 0.manbirsingh@gmail.com
 <p align="left">
 <a href="https://linkedin.com/in/0-manbir" target="blank" rel="noreferrer">LinkedIn</a>
   &nbsp;
+<a href="https://manb1r.wordpress.com" target="blank" rel="noreferrer">Portfolio</a>
+  &nbsp;
 <!--<a href="https://leetcode.com/u/0-manbir/" target="blank" rel="noreferrer">LeetCode</a>-->
 </p>
 
