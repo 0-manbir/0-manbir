@@ -11,6 +11,8 @@ Reach me at 0.manbirsingh@gmail.com
   &nbsp;
 <a href="https://manb1r.wordpress.com" target="blank" rel="noreferrer">Portfolio</a>
   &nbsp;
+<a href="https://hackaday.io/manbir" target="blank" rel="noreferrer">Hackaday.io</a>
+  &nbsp;
 <!--<a href="https://leetcode.com/u/0-manbir/" target="blank" rel="noreferrer">LeetCode</a>-->
 </p>
 
