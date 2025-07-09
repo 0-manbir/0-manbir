@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Manbir Singh</h1>
+<h1 align="center">Hello! I'm Manbir</h1>
 <h3 align="center">A Student and an Indie Game Developer!</h3>
 <br>
 <h3 align="left">About me</h3>
